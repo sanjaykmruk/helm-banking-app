@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-08-27T16:40:26.505989+01:00"
+entries:
+  banking-app-helm-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-28T10:13:03.0837+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 020e33bef94fbac3a1dacb9b3e16a2384cc0bee32557aae791f501ae9dad8057
+    name: banking-app-helm-chart
+    urls:
+    - banking-app-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-28T10:13:03.083324+01:00"
